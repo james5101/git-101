@@ -31,7 +31,7 @@ git add - stages a change that has been made.
 
 git commit - saves a snapshot to the project history at a given time. Anything added with with git add will become a part of the snapshot
 
-git status - shoes status of changes
+git status - shows status of changes
 
 git branch - shows the branches being worked on locally
 
