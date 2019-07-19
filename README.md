@@ -40,6 +40,12 @@ git merge - merges lines of development together. Can be used to merge 2 brnache
 git pull - updates local code with its remote.
 
 git push - updates remote with changes made
-
-
 ```
+
+# Additional Training 
+
+[Github Youtube](https://www.youtube.com/githubguides)
+
+[Github Labs](https://lab.github.com/)
+
+[Github Guides](https://guides.github.com/)
