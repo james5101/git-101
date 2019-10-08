@@ -49,3 +49,7 @@ git push - updates remote with changes made
 [Github Labs](https://lab.github.com/)
 
 [Github Guides](https://guides.github.com/)
+
+[Katacoda](https://www.katacoda.com/courses/git/)
+
+[Learn Git Branching](https://learngitbranching.js.org/)
